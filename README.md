@@ -1,3 +1,5 @@
+Поддерживает авто обновление через DynamicPack (Просто установить мод: https://modrinth.com/mod/dynamicpack)
+
 Установка:
 
 1. Скачать
