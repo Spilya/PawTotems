@@ -3,7 +3,7 @@
   "remote": {
 	"sign_no_required": true, 
     "type": "dynamic_repo",
-    "url": "https://spilya.github.io/PawTotemes/"
+    "url": "https://spilya.github.io/PawTotems/"
   },
   "formatVersion": 1
 }
