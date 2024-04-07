@@ -1,4 +1,5 @@
 Установка:
+
 1. Скачать
 ![https://i.ibb.co/mrnKtGv/image.png](https://i.ibb.co/bKGZtGw/image.png)
 
