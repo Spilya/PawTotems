@@ -1,1 +1,0 @@
-This file allow to files/dirs starts with _ (underscore)
