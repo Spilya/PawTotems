@@ -508,6 +508,18 @@
 			"assets/minecraft/optifine/cit/liekeed/model.json": {
 				"hash": "fe23ca7201c8861ec3e615b0d99d5df4fc5cb054"
 			},
+			"assets/minecraft/optifine/cit/youipun/model.properties": {
+				"hash": "f369182af9261640e8d79344f8f246735ca5c5bb"
+			},
+			"assets/minecraft/optifine/cit/youipun/skin.png": {
+				"hash": "64031803bd455ac551e4a9eeb6ec72e961faab92"
+			},
+			"assets/minecraft/optifine/cit/youipun/wing.png": {
+				"hash": "db371c5b689b93052990d554879c0828a086ceaa"
+			},
+			"assets/minecraft/optifine/cit/youipun/model.json": {
+				"hash": "bfda4cb8454d0866245b9c243754046c324ce627"
+			},
 			"assets/minecraft/optifine/cit/mrirbis/model.properties": {
 				"hash": "0f8e6b10a6b094a16f584079204c9854e0debabe"
 			},
