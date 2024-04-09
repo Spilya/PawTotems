@@ -667,6 +667,15 @@
 			"assets/minecraft/optifine/cit/frklk/model.json": {
 				"hash": "fe23ca7201c8861ec3e615b0d99d5df4fc5cb054"
 			},
+			"assets/minecraft/optifine/cit/wolfifurr/model.properties": {
+				"hash": "b974f7064fd4f9d44d0d122423b4fb5e352ee9fc"
+			},
+			"assets/minecraft/optifine/cit/wolfifurr/skin.png": {
+				"hash": "ca649e5e696a7ccc879faa437bcb0fd317299094"
+			},
+			"assets/minecraft/optifine/cit/wolfifurr/model.json": {
+				"hash": "df5ea4387b1d7c60d965b4c6e352863d51e769b2"
+			},
 			"assets/minecraft/optifine/cit/nicklefoxo/model.properties": {
 				"hash": "8bd26aca032137d282e67492fd41670757da8bd2"
 			},
