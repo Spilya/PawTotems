@@ -154,6 +154,18 @@
 			"assets/minecraft/optifine/cit/sprintfox/model.json": {
 				"hash": "667af05422c50a9a7d12f480be80d23a3c615600"
 			},
+			"assets/minecraft/optifine/cit/tsushima_ghost/model.properties": {
+				"hash": "7903aeecd73978d685a9c38c6dbf46c4b5d6088c"
+			},
+			"assets/minecraft/optifine/cit/tsushima_ghost/skin.png": {
+				"hash": "1abecf9191b407453078d649135acf939ec77de1"
+			},
+			"assets/minecraft/optifine/cit/tsushima_ghost/wing.png": {
+				"hash": "cf09952f61bc9778ef9e2096cf9375359703c3e0"
+			},
+			"assets/minecraft/optifine/cit/tsushima_ghost/model.json": {
+				"hash": "75705ac20423796cb718fef1574b4a7ed3611c1e"
+			},
 			"assets/minecraft/optifine/cit/thekryptonfox/model.properties": {
 				"hash": "80a09b72f23de366a73aca58290bd7ad4c964eda"
 			},
@@ -751,6 +763,15 @@
 			"assets/minecraft/optifine/cit/justnovie/model.json": {
 				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d"
 			},
+			"assets/minecraft/optifine/cit/wolfed_/model.properties": {
+				"hash": "afb1b94d7f7be72edb47b06addd223a8a32932cb"
+			},
+			"assets/minecraft/optifine/cit/wolfed_/skin.png": {
+				"hash": "303b3eeb8d323484957f9140c2078e3701dbe413"
+			},
+			"assets/minecraft/optifine/cit/wolfed_/model.json": {
+				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6"
+			},
 			"assets/minecraft/optifine/cit/horoko21/model.properties": {
 				"hash": "64b7ab913e4d77469879c6a89594c8c8ef042f93"
 			},
@@ -783,6 +804,15 @@
 			},
 			"assets/minecraft/optifine/cit/mozarellka/model.json": {
 				"hash": "7800b3be409c414f6386bf261d46f09298b79784"
+			},
+			"assets/minecraft/optifine/cit/cmisharik/model.properties": {
+				"hash": "72128072f647166284393b2484d561a1a77bc001"
+			},
+			"assets/minecraft/optifine/cit/cmisharik/skin.png": {
+				"hash": "16a032fc657b3bdca938daed9615616e66a837ee"
+			},
+			"assets/minecraft/optifine/cit/cmisharik/model.json": {
+				"hash": "29eca0cbeac4c36f03f254ce65ee1cf48c49dfe6"
 			},
 			"assets/minecraft/optifine/cit/ashleythedev/model.properties": {
 				"hash": "1a53630887751ae61cea4d3d6b848671656246c7"
