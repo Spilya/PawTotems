@@ -422,10 +422,10 @@
 				"hash": "443c55eb702355e2aa995f239e974efae6255e47"
 			},
 			"assets/minecraft/optifine/cit/freedodk/skin.png": {
-				"hash": "424b11e491eded1b3778c94d25a7a5917b4e01f9"
+				"hash": "b72b9d6b18f7755012e45ea1fb5089fc9d737571"
 			},
 			"assets/minecraft/optifine/cit/freedodk/model.json": {
-				"hash": "ab133efa8b69f9868cba6a0418faaea1b9024d32"
+				"hash": "667af05422c50a9a7d12f480be80d23a3c615600"
 			},
 			"assets/minecraft/optifine/cit/dapot22/model.properties": {
 				"hash": "7d79d5b18439987c91dedcdf913cc3e1518f004e"
@@ -656,6 +656,15 @@
 				"hash": "794b69fc64d4d735c14996a262f0bd23a0775bc5"
 			},
 			"assets/minecraft/optifine/cit/fatrits/model.json": {
+				"hash": "df5ea4387b1d7c60d965b4c6e352863d51e769b2"
+			},
+			"assets/minecraft/optifine/cit/wolfifurr/model.properties": {
+				"hash": "b974f7064fd4f9d44d0d122423b4fb5e352ee9fc"
+			},
+			"assets/minecraft/optifine/cit/wolfifurr/skin.png": {
+				"hash": "ca649e5e696a7ccc879faa437bcb0fd317299094"
+			},
+			"assets/minecraft/optifine/cit/wolfifurr/model.json": {
 				"hash": "df5ea4387b1d7c60d965b4c6e352863d51e769b2"
 			},
 			"assets/minecraft/optifine/cit/nicklefoxo/model.properties": {
