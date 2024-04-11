@@ -151,18 +151,6 @@
 			"assets/minecraft/optifine/cit/sprintfox/model.json": {
 				"hash": "667af05422c50a9a7d12f480be80d23a3c615600"
 			},
-			"assets/minecraft/optifine/cit/tsushima_ghost/model.properties": {
-				"hash": "7903aeecd73978d685a9c38c6dbf46c4b5d6088c"
-			},
-			"assets/minecraft/optifine/cit/tsushima_ghost/skin.png": {
-				"hash": "1abecf9191b407453078d649135acf939ec77de1"
-			},
-			"assets/minecraft/optifine/cit/tsushima_ghost/wing.png": {
-				"hash": "cf09952f61bc9778ef9e2096cf9375359703c3e0"
-			},
-			"assets/minecraft/optifine/cit/tsushima_ghost/model.json": {
-				"hash": "75705ac20423796cb718fef1574b4a7ed3611c1e"
-			},
 			"assets/minecraft/optifine/cit/thekryptonfox/model.properties": {
 				"hash": "80a09b72f23de366a73aca58290bd7ad4c964eda"
 			},
@@ -751,15 +739,6 @@
 			"assets/minecraft/optifine/cit/justnovie/model.json": {
 				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d"
 			},
-			"assets/minecraft/optifine/cit/wolfed_/model.properties": {
-				"hash": "afb1b94d7f7be72edb47b06addd223a8a32932cb"
-			},
-			"assets/minecraft/optifine/cit/wolfed_/skin.png": {
-				"hash": "303b3eeb8d323484957f9140c2078e3701dbe413"
-			},
-			"assets/minecraft/optifine/cit/wolfed_/model.json": {
-				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6"
-			},
 			"assets/minecraft/optifine/cit/horoko21/model.properties": {
 				"hash": "64b7ab913e4d77469879c6a89594c8c8ef042f93"
 			},
@@ -816,15 +795,6 @@
 			},
 			"assets/minecraft/optifine/cit/spitiset/model.json": {
 				"hash": "2616b0743e16a9643add6813739bbe9c8768feef"
-			},
-			"assets/minecraft/optifine/cit/thepristol/model.properties": {
-				"hash": "e5410275db1f9417e4d0a5b7f6162aa5d48493cb"
-			},
-			"assets/minecraft/optifine/cit/thepristol/skin.png": {
-				"hash": "54156ddc54dfc42c8f85c58f3e93441f5d6f1708"
-			},
-			"assets/minecraft/optifine/cit/thepristol/model.json": {
-				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6"
 			},
 			"assets/minecraft/optifine/cit/shimura_moykotik/model.properties": {
 				"hash": "1ae644470ac2c7953b3a18998107fb262fecd020"
