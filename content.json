@@ -397,16 +397,16 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/jerozgen/skin.png": {
-				"hash": "1e95f73052cc7252e8294d27a511ff2cb25ad387",
-				"size": 1976
+				"hash": "ef37c998c3b1fc01427970586f41d4a1d906a6c5",
+				"size": 1972
 			},
 			"assets/minecraft/optifine/cit/jerozgen/wing.png": {
 				"hash": "4313a90361b2be63ec1d772a6f169684d1522441",
 				"size": 232
 			},
 			"assets/minecraft/optifine/cit/jerozgen/model.json": {
-				"hash": "0881cf10b9acf2618c3c1a6b083c9411e1fdbd38",
-				"size": 7524
+				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d",
+				"size": 7290
 			},
 			"assets/minecraft/optifine/cit/popcatte/model.properties": {
 				"hash": "bd9a83b0f3b5edff1e8daa1d39eeb2b296089119",
@@ -613,16 +613,16 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/zanellle/skin.png": {
-				"hash": "9572db36ffa6969accfc5390789f2f6dd90ef0bf",
-				"size": 2549
+				"hash": "fce3f8da68c264828dda932fcad0d76c04bfb67c",
+				"size": 2522
 			},
 			"assets/minecraft/optifine/cit/zanellle/wing.png": {
 				"hash": "37feb2add866809d5b1f85763941a9bd1bba6230",
 				"size": 289
 			},
 			"assets/minecraft/optifine/cit/zanellle/model.json": {
-				"hash": "1fa2e9fb41723b510a2d388d045862ff5a4e196a",
-				"size": 7290
+				"hash": "7e416cb42bedcee9bfe75e6e1f68666f0e92de9b",
+				"size": 6642
 			},
 			"assets/minecraft/optifine/cit/hokcu/model.properties": {
 				"hash": "2311aaa09d7476b9b345d5a3ba904376577cce93",
@@ -777,16 +777,16 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/rickmafi/skin.png": {
-				"hash": "301c662cc94205e1748751c99f0cf6a8eb940aea",
-				"size": 1955
+				"hash": "90817bd6eab0f8c06e3635c7f6c463456d406ac4",
+				"size": 1340
 			},
 			"assets/minecraft/optifine/cit/rickmafi/wing.png": {
 				"hash": "941b7e048a08e9c5c75e9495b72a893dbcaf13e6",
 				"size": 206
 			},
 			"assets/minecraft/optifine/cit/rickmafi/model.json": {
-				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
-				"size": 5996
+				"hash": "d19230d99c28f5492668699327bd0fbd3cb60583",
+				"size": 6916
 			},
 			"assets/minecraft/optifine/cit/err1e/model.properties": {
 				"hash": "617539eef9a9bcffec9875a767e521764971bf28",
@@ -973,8 +973,8 @@
 				"size": 75
 			},
 			"assets/minecraft/optifine/cit/miragewhynot/skin.png": {
-				"hash": "c5a24798e6f32a75ee3883131498aed69916dfe6",
-				"size": 2784
+				"hash": "c988334e61fea52fbabf0b082598d621b8348fbe",
+				"size": 2601
 			},
 			"assets/minecraft/optifine/cit/miragewhynot/wing.png": {
 				"hash": "ecf80e88f0097997f2825a976de4d63042ad8a06",
@@ -989,12 +989,12 @@
 				"size": 73
 			},
 			"assets/minecraft/optifine/cit/phantomrrz/skin.png": {
-				"hash": "939fd3bfb779ddc051a3ea365a101d4b6de9d5b6",
-				"size": 1489
+				"hash": "d1766a52578c1db78baed8f804bec7bedd9bd188",
+				"size": 2120
 			},
 			"assets/minecraft/optifine/cit/phantomrrz/model.json": {
-				"hash": "1a8040b44286af2ce51cc40cf1b01b660eb68237",
-				"size": 7060
+				"hash": "ab133efa8b69f9868cba6a0418faaea1b9024d32",
+				"size": 7290
 			},
 			"assets/minecraft/optifine/cit/catogg_/model.properties": {
 				"hash": "70274f6238968b302e82dda5daf6e2507ae14631",
@@ -1153,8 +1153,8 @@
 				"size": 79
 			},
 			"assets/minecraft/optifine/cit/frklk_moyfenneck/skin.png": {
-				"hash": "c63fa8c2d94618a323484a65daaea68a87490e25",
-				"size": 2519
+				"hash": "9d1d36ee0a07452fb8414673c151acb6169a08de",
+				"size": 3011
 			},
 			"assets/minecraft/optifine/cit/frklk_moyfenneck/wing.png": {
 				"hash": "50448e2bf22811ad873084a3fdb1c863c68ec73d",
@@ -1421,8 +1421,8 @@
 				"size": 68
 			},
 			"assets/minecraft/optifine/cit/ferfi/skin.png": {
-				"hash": "1834b8b82f869ff9d130209b8e17df490abaa8e1",
-				"size": 2533
+				"hash": "9ae92a4f199b798e6cecd7077d52b8aec29aa45f",
+				"size": 2737
 			},
 			"assets/minecraft/optifine/cit/ferfi/wing.png": {
 				"hash": "213a38f7b65fc14ea47bfeafebd020ece3939ce4",
@@ -1601,8 +1601,8 @@
 				"size": 69
 			},
 			"assets/minecraft/optifine/cit/zimper/skin.png": {
-				"hash": "b999ce3f725623c27987d264bf81479c14558264",
-				"size": 2662
+				"hash": "0b35ea039804b840692cccefd8279df225a40b78",
+				"size": 2613
 			},
 			"assets/minecraft/optifine/cit/zimper/wing.png": {
 				"hash": "8d323f09f95eac0f28921298b6bfb18674891335",
@@ -1677,16 +1677,16 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/ginfalor/skin.png": {
-				"hash": "c64dad2d36a4e730d2f5048b781e48a9161fea99",
-				"size": 2629
+				"hash": "ff3149712c0b917379eaa4a3672bece9080fc3af",
+				"size": 3173
 			},
 			"assets/minecraft/optifine/cit/ginfalor/wing.png": {
 				"hash": "a7205d41270080fa74f6670b27853b807e333018",
 				"size": 226
 			},
 			"assets/minecraft/optifine/cit/ginfalor/model.json": {
-				"hash": "21f9f16134b4088754621f28baad22b7723dcbe0",
-				"size": 7525
+				"hash": "1fa2e9fb41723b510a2d388d045862ff5a4e196a",
+				"size": 7290
 			},
 			"assets/minecraft/optifine/cit/mozarellka/model.properties": {
 				"hash": "ecf5536d2dbb2ee40908d02d302844e48a53fcc1",
@@ -1749,8 +1749,8 @@
 				"size": 73
 			},
 			"assets/minecraft/optifine/cit/thepristol/skin.png": {
-				"hash": "b94286369eef07ab52f5e47129469c849a370926",
-				"size": 1895
+				"hash": "72503bdf6d0c0424b8371cb456c00cdd870cb216",
+				"size": 1872
 			},
 			"assets/minecraft/optifine/cit/thepristol/wing.png": {
 				"hash": "8775fea50daeeb2a37f9a826d77cfcb377d70a15",
@@ -1889,16 +1889,16 @@
 				"size": 69
 			},
 			"assets/minecraft/optifine/cit/zippaw/skin.png": {
-				"hash": "68b3e5d98d4ec834fdbb91ce352ea8b3e1ce0a80",
-				"size": 1654
+				"hash": "4f34e37b79f5645ffb5c55e368b0d70f1f2bd44c",
+				"size": 1954
 			},
 			"assets/minecraft/optifine/cit/zippaw/wing.png": {
 				"hash": "057b96a8558675110e36b714955b87d97cf1f8eb",
 				"size": 189
 			},
 			"assets/minecraft/optifine/cit/zippaw/model.json": {
-				"hash": "667af05422c50a9a7d12f480be80d23a3c615600",
-				"size": 5902
+				"hash": "dc43daf533647e6c61f9b6a306a2bcef318fd391",
+				"size": 7196
 			},
 			"assets/minecraft/optifine/cit/rudikzwq/model.properties": {
 				"hash": "0fa1073fedfdcd8a6932438689e1f60f4039aa68",
