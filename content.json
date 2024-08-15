@@ -37,12 +37,12 @@
 				"size": 70
 			},
 			"assets/minecraft/optifine/cit/mrmurv_/skin.png": {
-				"hash": "e7fe369b4aaf3c6ffba817b5e0c1dcaaff88ab5a",
-				"size": 2795
+				"hash": "0afa4ecf9c97706499895421dbf2d013b4a6e44a",
+				"size": 2483
 			},
 			"assets/minecraft/optifine/cit/mrmurv_/wing.png": {
-				"hash": "fc182e8b32dd16e3aa76b57d785d03ba62e6c3a4",
-				"size": 275
+				"hash": "d496a4bb22e7a6cd7caf4ed48d0da51ff8b99bfe",
+				"size": 235
 			},
 			"assets/minecraft/optifine/cit/mrmurv_/model.json": {
 				"hash": "13308668ae4bd258208a70c4c0a76a8661e589c9",
@@ -1109,16 +1109,16 @@
 				"size": 72
 			},
 			"assets/minecraft/optifine/cit/freishpil/skin.png": {
-				"hash": "fabe79bbcad815d55e1c4e18a1401c54c0228469",
-				"size": 2375
+				"hash": "88b1685cf19e68e1d0f05dd7b709572bc875045e",
+				"size": 2356
 			},
 			"assets/minecraft/optifine/cit/freishpil/wing.png": {
 				"hash": "24c2bf40d00bbbe129e96cfa2b8c444f385c94de",
 				"size": 233
 			},
 			"assets/minecraft/optifine/cit/freishpil/model.json": {
-				"hash": "667af05422c50a9a7d12f480be80d23a3c615600",
-				"size": 5902
+				"hash": "dc43daf533647e6c61f9b6a306a2bcef318fd391",
+				"size": 7196
 			},
 			"assets/minecraft/optifine/cit/snaipuwu/model.properties": {
 				"hash": "742b1eac0a00084e9196846fe508d05ea2b81109",
@@ -2121,8 +2121,8 @@
 				"size": 67
 			},
 			"assets/minecraft/optifine/cit/d1yy/skin.png": {
-				"hash": "556203b7eb5147c504921c8edb3e0d3dcea2886e",
-				"size": 1845
+				"hash": "d1f3c31bc7e7cacfd145b90c18a6f14a47191c60",
+				"size": 2029
 			},
 			"assets/minecraft/optifine/cit/d1yy/wing.png": {
 				"hash": "4fc6336e597c9d0a08e8ee7e19c0f8d662f1459f",
@@ -2181,8 +2181,8 @@
 				"size": 70
 			},
 			"assets/minecraft/optifine/cit/monomri/skin.png": {
-				"hash": "31d42315775df09d8e704cd14952bda6948b58aa",
-				"size": 1747
+				"hash": "147d25cc3dd172af78eafb486e970bc34de12a24",
+				"size": 1724
 			},
 			"assets/minecraft/optifine/cit/monomri/model.json": {
 				"hash": "55e3293bda1e1628714614fcd6907121b420088d",
@@ -2193,8 +2193,8 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/hanchjoy/skin.png": {
-				"hash": "be64050f02c9adfefbe2b48622d265441b947c72",
-				"size": 1311
+				"hash": "02057a33f3e1df619e9272a44d7e7ec0c901caf8",
+				"size": 1262
 			},
 			"assets/minecraft/optifine/cit/hanchjoy/model.json": {
 				"hash": "667af05422c50a9a7d12f480be80d23a3c615600",
