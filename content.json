@@ -1156,6 +1156,22 @@
 				"hash": "4cc301b51cb13b48a9f088558aa549cfacc8a3f0",
 				"size": 7060
 			},
+			"assets/minecraft/optifine/cit/georga99/model.properties": {
+				"hash": "de92a88638301a69568b6f6c9215d939a41ce195",
+				"size": 71
+			},
+			"assets/minecraft/optifine/cit/georga99/skin.png": {
+				"hash": "c16e9d65d6a71ab883e9e70cb7da908451d2f010",
+				"size": 2770
+			},
+			"assets/minecraft/optifine/cit/georga99/wing.png": {
+				"hash": "f3750434a762a0e4b2b2ff87711e4280dd327d1c",
+				"size": 255
+			},
+			"assets/minecraft/optifine/cit/georga99/model.json": {
+				"hash": "1fa2e9fb41723b510a2d388d045862ff5a4e196a",
+				"size": 7290
+			},
 			"assets/minecraft/optifine/cit/freishpil/model.properties": {
 				"hash": "935bc640dd1ef34e3aefac72768b12d6abd1c1f8",
 				"size": 72
@@ -1751,6 +1767,22 @@
 			"assets/minecraft/optifine/cit/suncheer/model.json": {
 				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
 				"size": 5996
+			},
+			"assets/minecraft/optifine/cit/suheugene/model.properties": {
+				"hash": "3cdf3e88f602e7486ac899882adeebe9f6401afa",
+				"size": 72
+			},
+			"assets/minecraft/optifine/cit/suheugene/skin.png": {
+				"hash": "6f71b5222ab156a4d5bdba13e6f415e50e96a39e",
+				"size": 2199
+			},
+			"assets/minecraft/optifine/cit/suheugene/wing.png": {
+				"hash": "57720bbe6c12f5405c4f054d774b1130538309c6",
+				"size": 229
+			},
+			"assets/minecraft/optifine/cit/suheugene/model.json": {
+				"hash": "867ab51b10e502b7510244300e8e711ed71748cb",
+				"size": 6550
 			},
 			"assets/minecraft/optifine/cit/f0rzel/model.properties": {
 				"hash": "cc88179ec99286f0ba8c5d3daffbacd9beee7bc7",
@@ -2387,6 +2419,18 @@
 			"assets/minecraft/optifine/cit/_randrel_/model.json": {
 				"hash": "91158b71cdd39844752a32a01a1ef64e19dc89e3",
 				"size": 6137
+			},
+			"assets/minecraft/optifine/cit/marriouss/model.properties": {
+				"hash": "7412cb73937123dd5191af044b0ee5db79957ef9",
+				"size": 72
+			},
+			"assets/minecraft/optifine/cit/marriouss/skin.png": {
+				"hash": "3006cf64efd99260e05cbc4df7dcfaac20c1928e",
+				"size": 1929
+			},
+			"assets/minecraft/optifine/cit/marriouss/model.json": {
+				"hash": "b35d441435d1c9bf72ad973853369f482fba7f81",
+				"size": 7240
 			},
 			"assets/minecraft/optifine/cit/stereohoshi/model.properties": {
 				"hash": "3dc1a02a1d023706b02604a3d2504e5bc5fe3372",
