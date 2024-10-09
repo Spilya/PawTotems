@@ -269,8 +269,8 @@
 				"size": 69
 			},
 			"assets/minecraft/optifine/cit/xosttl/skin.png": {
-				"hash": "08efdcb6156b0a4af6ab8fbca6e2b02b5b6af8bb",
-				"size": 1788
+				"hash": "3337671460a60eb355528500c9ba96e9cd88019b",
+				"size": 2000
 			},
 			"assets/minecraft/optifine/cit/xosttl/model.json": {
 				"hash": "4c1ae3734edc645a85c0917d47b6b7c03de0d444",
@@ -813,8 +813,8 @@
 				"size": 73
 			},
 			"assets/minecraft/optifine/cit/phantomrrz/skin.png": {
-				"hash": "0c83e01185ccbacf57512a39627a4dcca8c356b0",
-				"size": 2710
+				"hash": "920a3ad8fc9adc616d1f962951241bf5deea530b",
+				"size": 2527
 			},
 			"assets/minecraft/optifine/cit/phantomrrz/model.json": {
 				"hash": "50d419971db51879531df4ec8e66e614182f2d70",
@@ -925,15 +925,15 @@
 				"size": 75
 			},
 			"assets/minecraft/optifine/cit/harlycameron/skin.png": {
-				"hash": "0fc8a521bb053f1796fe9625ac1d3251020af8be",
-				"size": 3177
+				"hash": "c96e292847f5a2d9dd46d8f36df576a33372e688",
+				"size": 2944
 			},
 			"assets/minecraft/optifine/cit/harlycameron/wing.png": {
-				"hash": "92253c7666a8ab6d2d95e22b842dc22832210672",
-				"size": 375
+				"hash": "4407c2d9effa5ca977678d1687e625c8a1c1e9a6",
+				"size": 215
 			},
 			"assets/minecraft/optifine/cit/harlycameron/model.json": {
-				"hash": "ff1daa07a582811c16ea02aac908307de3723072",
+				"hash": "21f9f16134b4088754621f28baad22b7723dcbe0",
 				"size": 7525
 			},
 			"assets/minecraft/optifine/cit/youipun/model.properties": {
@@ -1877,12 +1877,12 @@
 				"size": 72
 			},
 			"assets/minecraft/optifine/cit/ostrouwka/skin.png": {
-				"hash": "9344994edc9e35210f4c23a939ebe82a750b2ca7",
-				"size": 1789
+				"hash": "fb87ede8427207ab930b4543bace486acb34ab82",
+				"size": 1407
 			},
 			"assets/minecraft/optifine/cit/ostrouwka/model.json": {
-				"hash": "ba88311aeb090985d9dea5c1b6a8192f509774df",
-				"size": 7160
+				"hash": "667af05422c50a9a7d12f480be80d23a3c615600",
+				"size": 5902
 			},
 			"assets/minecraft/optifine/cit/djoske/model.properties": {
 				"hash": "ec29eea27c1ea795cc4b4edd212ef05894d0e0d7",
