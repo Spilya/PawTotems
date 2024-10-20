@@ -1213,16 +1213,12 @@
 				"size": 77
 			},
 			"assets/minecraft/optifine/cit/sinner_s_shine/skin.png": {
-				"hash": "66b15403f97579a917101b5a3933cbe8b12d4192",
-				"size": 2641
-			},
-			"assets/minecraft/optifine/cit/sinner_s_shine/wing.png": {
-				"hash": "00984c1df6fb1690b96396a2a1442f295db26499",
-				"size": 264
+				"hash": "ef30cac44865019b22508256ed630413cf2735cf",
+				"size": 665
 			},
 			"assets/minecraft/optifine/cit/sinner_s_shine/model.json": {
-				"hash": "2da88bab46066b102218e0c199fd51668aa53a51",
-				"size": 7056
+				"hash": "8d40fe05a3d8237e5d74e36c59f8eeb997028c3c",
+				"size": 6441
 			},
 			"assets/minecraft/optifine/cit/fatrits/model.properties": {
 				"hash": "1dce3e251bb3bf7df041bcf8b4ed700f965397c4",
