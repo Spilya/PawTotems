@@ -521,16 +521,12 @@
 				"size": 77
 			},
 			"assets/minecraft/optifine/cit/binding_of_mol/skin.png": {
-				"hash": "ece12a57f47f10e2a01fc8341cd8c1ae2d464083",
-				"size": 2550
-			},
-			"assets/minecraft/optifine/cit/binding_of_mol/wing.png": {
-				"hash": "a9fecda4b2dce26164d674eb3613d04bcc4b7192",
-				"size": 265
+				"hash": "cf094fa8aaa66e041fc4058979bceac633346ecb",
+				"size": 3336
 			},
 			"assets/minecraft/optifine/cit/binding_of_mol/model.json": {
-				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d",
-				"size": 7290
+				"hash": "76befbd112deb200aa6bd832e1056b4a663d6eee",
+				"size": 7150
 			},
 			"assets/minecraft/optifine/cit/br1ck8/model.properties": {
 				"hash": "d27a743d91cfe4dffd19ec1db376794eb715265a",
@@ -577,8 +573,8 @@
 				"size": 68
 			},
 			"assets/minecraft/optifine/cit/safdi/skin.png": {
-				"hash": "a7614e64a03b83802bca6ba1208e1ccae40a02a3",
-				"size": 2540
+				"hash": "1551cbde87af9e829edcdd848daf680073496064",
+				"size": 2484
 			},
 			"assets/minecraft/optifine/cit/safdi/model.json": {
 				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
@@ -901,8 +897,8 @@
 				"size": 73
 			},
 			"assets/minecraft/optifine/cit/phantomrrz/skin.png": {
-				"hash": "46117d7644255c8810453c5d8ee71568f92629d6",
-				"size": 3642
+				"hash": "d79d7878fab2dbfc1fb116228cb6b90d427db0fa",
+				"size": 2835
 			},
 			"assets/minecraft/optifine/cit/phantomrrz/model.json": {
 				"hash": "50d419971db51879531df4ec8e66e614182f2d70",
@@ -1281,8 +1277,8 @@
 				"size": 72
 			},
 			"assets/minecraft/optifine/cit/wolfifurr/skin.png": {
-				"hash": "f225c462eedea5e97381ecfe6298e2428977d138",
-				"size": 1509
+				"hash": "4349a80a4bb41ea80efc0cfeb2fa349b4543ecce",
+				"size": 1436
 			},
 			"assets/minecraft/optifine/cit/wolfifurr/wing.png": {
 				"hash": "ecb8a00b85dc93aba1df671e06e3b700a5978f6f",
@@ -1325,8 +1321,8 @@
 				"size": 70
 			},
 			"assets/minecraft/optifine/cit/dorfany/skin.png": {
-				"hash": "8eec0d0da32d41fcb4352d899d143bf261f3ba85",
-				"size": 1845
+				"hash": "820553d3d11e77fe05603f8938cb5655ea6c40bd",
+				"size": 1258
 			},
 			"assets/minecraft/optifine/cit/dorfany/model.json": {
 				"hash": "667af05422c50a9a7d12f480be80d23a3c615600",
@@ -1561,12 +1557,12 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/maxaider/skin.png": {
-				"hash": "7154529ba2367aa64b2690c0cb394a11475014eb",
-				"size": 2103
+				"hash": "4b8d4e8d919d6003c1322b1b82ce3b0ff4e33198",
+				"size": 2107
 			},
 			"assets/minecraft/optifine/cit/maxaider/wing.png": {
-				"hash": "2ea3f287d7536001531da01edf80af74cb9f38c8",
-				"size": 261
+				"hash": "5a9fce060da533e6b3d252887b462487cc6962b3",
+				"size": 262
 			},
 			"assets/minecraft/optifine/cit/maxaider/model.json": {
 				"hash": "2616b0743e16a9643add6813739bbe9c8768feef",
@@ -1633,12 +1629,16 @@
 				"size": 73
 			},
 			"assets/minecraft/optifine/cit/thepristol/skin.png": {
-				"hash": "686ed339f66bd79d40d7dd4981a3d0220f863cbe",
-				"size": 3079
+				"hash": "0ff04f437276b717dc14111b046e2eed364fdf18",
+				"size": 3417
+			},
+			"assets/minecraft/optifine/cit/thepristol/wing.png": {
+				"hash": "8775fea50daeeb2a37f9a826d77cfcb377d70a15",
+				"size": 223
 			},
 			"assets/minecraft/optifine/cit/thepristol/model.json": {
-				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
-				"size": 5996
+				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d",
+				"size": 7290
 			},
 			"assets/minecraft/optifine/cit/afataly/model.properties": {
 				"hash": "9b1542c45958b36d0f4f8cd0912235c11a3edbaf",
@@ -1793,12 +1793,12 @@
 				"size": 67
 			},
 			"assets/minecraft/optifine/cit/d1yy/skin.png": {
-				"hash": "852b2bc527a429ed038cbd3ef3079a362adda6ac",
-				"size": 1940
+				"hash": "85e86bf05d402c348cfc745a021609e3279448e6",
+				"size": 1807
 			},
 			"assets/minecraft/optifine/cit/d1yy/model.json": {
-				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
-				"size": 5996
+				"hash": "80eb16858a8b21ab4f1ab333387a821d8c90ec61",
+				"size": 6486
 			},
 			"assets/minecraft/optifine/cit/lazarusdreik/model.properties": {
 				"hash": "31f3fcfff8f18a42fb849a10d32a33ec822158c1",
@@ -2045,8 +2045,8 @@
 				"size": 75
 			},
 			"assets/minecraft/optifine/cit/kron8element/skin.png": {
-				"hash": "fffac4c7a71fca49b418942d79c5700b10b90143",
-				"size": 2421
+				"hash": "acbe199ea44545edddf58060c327c7378b1d6578",
+				"size": 2424
 			},
 			"assets/minecraft/optifine/cit/kron8element/model.json": {
 				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
