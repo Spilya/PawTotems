@@ -881,12 +881,16 @@
 				"size": 71
 			},
 			"assets/minecraft/optifine/cit/georga99/skin.png": {
-				"hash": "1c01b1521400e14660845a8316938285c4173818",
-				"size": 1673
+				"hash": "e16ce9b8d0f4c05cd9badd69bb4d8e7b8427c629",
+				"size": 2160
+			},
+			"assets/minecraft/optifine/cit/georga99/wing.png": {
+				"hash": "f3750434a762a0e4b2b2ff87711e4280dd327d1c",
+				"size": 255
 			},
 			"assets/minecraft/optifine/cit/georga99/model.json": {
-				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
-				"size": 5996
+				"hash": "1fa2e9fb41723b510a2d388d045862ff5a4e196a",
+				"size": 7290
 			},
 			"assets/minecraft/optifine/cit/freishpil/model.properties": {
 				"hash": "935bc640dd1ef34e3aefac72768b12d6abd1c1f8",
