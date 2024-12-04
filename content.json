@@ -11,38 +11,6 @@
 			"pack.mcmeta": {
 				"hash": "a58cfaac60e26217c4a871fc28971d83c367207a",
 				"size": 78
-			},
-			"assets/minecraft/optifine/cit/hebupelka/model.properties": {
-				"hash": "9d5d0d175863489b7153182bfb9455abf807a735",
-				"size": 72
-			},
-			"assets/minecraft/optifine/cit/hebupelka/skin.png": {
-				"hash": "df8153b177defc014f0e509f825a869947f9bf9a",
-				"size": 2524
-			},
-			"assets/minecraft/optifine/cit/hebupelka/wing.png": {
-				"hash": "ece53466741253772b8f78b261df89b748aad383",
-				"size": 181
-			},
-			"assets/minecraft/optifine/cit/hebupelka/model.json": {
-				"hash": "116b7c1298f4629128ae3641aa156c5c9484b97f",
-				"size": 6784
-			},
-			"assets/minecraft/optifine/cit/dikonxd/model.properties": {
-				"hash": "b4bb8d4eaf4832e1e5f5e2bbe4cc4fef68128a57",
-				"size": 70
-			},
-			"assets/minecraft/optifine/cit/dikonxd/skin.png": {
-				"hash": "302a4ac133f2117c5d855e562d51ed3f3f10f85d",
-				"size": 2807
-			},
-			"assets/minecraft/optifine/cit/dikonxd/wing.png": {
-				"hash": "c1acc0fae541590ae351fff0e9660a5f14070029",
-				"size": 260
-			},
-			"assets/minecraft/optifine/cit/dikonxd/model.json": {
-				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d",
-				"size": 7290
 			}
 		}
 	}
