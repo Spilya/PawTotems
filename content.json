@@ -33,16 +33,12 @@
 				"size": 70
 			},
 			"assets/minecraft/optifine/cit/mrmurv_/skin.png": {
-				"hash": "301000809fdcb26e46244233110eb261bb3a3630",
-				"size": 2415
-			},
-			"assets/minecraft/optifine/cit/mrmurv_/wing.png": {
-				"hash": "04db3f2af3f709d3b298fa28f2750bdd123437e6",
-				"size": 258
+				"hash": "57d8dd5c309fcd3bc98c7bd5339d770425a4b5d3",
+				"size": 1782
 			},
 			"assets/minecraft/optifine/cit/mrmurv_/model.json": {
-				"hash": "13308668ae4bd258208a70c4c0a76a8661e589c9",
-				"size": 6642
+				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
+				"size": 5996
 			},
 			"assets/minecraft/optifine/cit/mr_divar/model.properties": {
 				"hash": "2671b9f7b9cf16cc835d30ef90d173c920bf3236",
@@ -465,8 +461,8 @@
 				"size": 70
 			},
 			"assets/minecraft/optifine/cit/_mokko_/skin.png": {
-				"hash": "da64fcf916c42cf8b739e5e8ef3cbd8ee7969f61",
-				"size": 3066
+				"hash": "4a9ccb3b73f1b33b93cc41083d53e41b6b099893",
+				"size": 2670
 			},
 			"assets/minecraft/optifine/cit/_mokko_/wing.png": {
 				"hash": "0b101159bf18810a6f1481419e474b122f6732de",
@@ -537,16 +533,12 @@
 				"size": 73
 			},
 			"assets/minecraft/optifine/cit/thepristol/skin.png": {
-				"hash": "c7244ae9f804083ecc2307ebaa86bff3f0b0be2c",
-				"size": 2297
-			},
-			"assets/minecraft/optifine/cit/thepristol/wing.png": {
-				"hash": "8775fea50daeeb2a37f9a826d77cfcb377d70a15",
-				"size": 223
+				"hash": "d0e39a2891ccbe6d4ee245de4d79975deb7e1a73",
+				"size": 1560
 			},
 			"assets/minecraft/optifine/cit/thepristol/model.json": {
-				"hash": "afd1624eb5643601fe5e4aed6977e85021c3834d",
-				"size": 7290
+				"hash": "f2f75603c4e221a2c867978ca905f1f58ff30ee6",
+				"size": 5996
 			},
 			"assets/minecraft/optifine/cit/9lex6/model.properties": {
 				"hash": "7fbf51617e4e494050943d8b7afe355b49ca1b2b",
@@ -605,8 +597,8 @@
 				"size": 70
 			},
 			"assets/minecraft/optifine/cit/monomri/skin.png": {
-				"hash": "d3992cdeb9eb3db0d30c476495c29999155e4fd0",
-				"size": 2174
+				"hash": "4de55228a7f163a59a401a8842392cbd95d12f6d",
+				"size": 1764
 			},
 			"assets/minecraft/optifine/cit/monomri/model.json": {
 				"hash": "55e3293bda1e1628714614fcd6907121b420088d",
