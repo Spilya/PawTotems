@@ -1,13 +1,13 @@
 {
 	"formatVersion": 1,
-	"build": 7393,
+	"build": 7394,
 	"name": "PawTotems",
 	"contents": [
 		{
 			"name": "PawTotems",
 			"required": true,
 			"url": "content.json",
-			"hash": "ac943d4324a8cc135579b57242a216d3b6d999c9",
+			"hash": "82ac4e3dfafbdbdbb278dfad28bf92888e482640",
 			"id": "pack"
 		}
 	]
